@@ -1,0 +1,3 @@
+Dwie opcje z ZMIEN DANE
+DOKONCZ ZMIANE DANYCH Userow - panel_zmienUSR_send// czyli zrob to
+14.02.2017 - poprawienie wyswietlania wartosci sprzedarz w ZMIEÑ DANE -> Popraw dane o zwrotach z tego tygodnia

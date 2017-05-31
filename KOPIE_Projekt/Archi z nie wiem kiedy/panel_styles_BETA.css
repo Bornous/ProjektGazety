@@ -1,0 +1,195 @@
+﻿
+			body
+			{
+				/*background-color: #5C5C5C;*/
+				background-color: #404040;
+				font-size: 24px;
+				color: black;
+			}
+			
+			h1{
+					text-align: center;
+					font-size: 28px;
+					color: white;
+					letter-spacing: 5px;
+				}
+			
+			#contener{
+				margin-left: auto;
+				margin-right: auto;
+				padding: 10px;
+				max-width: 1080px;
+				
+			
+			}
+			
+			
+			#topbar{
+			
+				
+				background-color: #072600;
+				min-height: 40px;
+				padding: 2px;
+				max-width: 1056px;
+				
+												
+				}
+				
+				#topmenu{
+				background-color: #65805C;
+				padding: 2px;
+				margin-top: 10px;
+				min-height: 60px;
+				max-width: 1056px;
+				
+				
+				
+				}
+				
+				
+				#options{
+					margin-top: 10px;
+					margin-bottom: 10px;
+					float: left;
+					min-height: 506px;
+					min-width: 259px;
+					background-color: #84A17A;
+					padding: 2px;
+									
+				}
+				
+				.option{
+					margin-left: auto;
+					margin-right:auto;
+					margin-top: 10px;
+					max-width: 190px;
+					min-height: 56px;
+					padding: 2px;
+					background-color: black;
+					
+					font-size: 24px;
+					text-align: center;
+					color: white;
+					
+					}
+					
+				.option:hover
+				{
+				
+				background-color: #FF955C;
+				color: black;
+				cursor: pointer;
+				
+				}
+				
+				#main{
+					margin-top: 10px;
+					margin-bottom: 10px;
+					margin-left: 10px;
+					float: left;
+					min-height: 500px;
+					min-width: 777px;
+					background-color: #D9EDD5;
+					padding: 5px;
+				}
+				
+				.dane{
+					margin-left: 20px;
+				
+				
+				}
+				
+				.dottedline{
+					height: 7px;
+					padding: 2px;
+					margin-bottom: 5px;
+					border-bottom: 2px dotted #444444;
+				
+				
+				}
+				
+				
+				#footer{
+					margin-top: 20px;
+					max-width: 1056px;
+					padding: 2px;
+					clear: both;
+					background-color: #072600;
+					color: white;
+					text-align: center;
+				}
+				
+				a:visited{
+				color: yellow;	
+				text-decoration: none;
+				
+				}
+				
+				a{
+				color: white;	
+				text-decoration: none;
+								
+				}
+				
+				
+				
+				.glowna{
+					margin-left: auto;
+					margin-right:auto;
+					margin-top: 10px;
+					max-width: 715px;
+					min-height: 40px;
+					padding: 2px;
+					background-color: black;
+					
+					font-size: 30px;
+					text-align:center;
+					color: white;
+					
+					}
+					
+				.glowna:hover
+				{
+				
+				background-color: #FF955C;
+				color: black;
+				cursor: pointer;
+				
+				}
+				
+				
+				#formularz
+				{
+						padding: 5px;
+						margin-right: auto;
+						margin-left: auto;
+						text-align:center;
+						margin-top: 30px;
+				
+				
+					}
+							
+							
+							
+				.tab{
+					min-height: 25px;
+					min-width: 700px;
+					margin-left:auto;
+					margin-right:auto;
+					background-color: #F7FCF8;
+					
+					border: 2px solid #444444;
+					text-align: center;
+							
+				}
+				
+				.mtab{
+				float:left;
+				max-width: 309px;
+				min-width: 309px;
+				border-right: 2px solid #444444;
+				
+				
+				
+				}
+			

@@ -1,0 +1,514 @@
+
+			body
+			{
+				/*background-color: #5C5C5C;*/
+				background-color: #404040;
+				font-size: 24px;
+				color: black;
+			}
+			
+			h1{
+					text-align: center;
+					font-size: 28px;
+					color: white;
+					letter-spacing: 5px;
+				}
+				
+			/*Główny szkielet strony: */
+			
+			#contener{
+				margin-left: auto;
+				margin-right: auto;
+				padding: 10px;
+				max-width: 1080px;			
+			}
+			
+			
+			#topbar{			
+				background-color: #072600;
+				/*min-height: 40px;*/
+				padding: 2px;
+				max-width: 1056px;												
+				}
+				
+				.topmeni{
+				background-color: #65805C;
+				padding: 2px;
+				margin-top: 10px;
+				min-height: 60px;
+				max-width: 1056px;
+				}
+				
+				.przedzial{
+				width:300px;
+				margin-top: 15px;
+				margin-left: 20px;
+				text-align:center;
+				text-transform: uppercase;
+				float:left;
+				
+				}
+				
+				.czasos{
+				width:400px;
+				margin-top: 15px;
+				margin-left: 40px;
+				
+				text-align:center;
+				text-transform: uppercase;
+				float:left;
+				
+				
+				}
+				
+				
+				
+				#gazeta{align:center;}
+				
+				#options{
+					margin-top: 10px;
+					margin-bottom: 10px;
+					float: left;
+					min-height: 506px;
+					min-width: 259px;
+					
+					padding: 2px;
+									
+				}
+				
+				.none_options{
+				background-color: #84A17A;
+				
+				}
+				
+				.option{
+					margin-left: auto;
+					margin-right:auto;
+					margin-top: 10px;
+					max-width: 190px;
+					min-height: 56px;
+					padding: 2px;
+					background-color: black;
+					
+					font-size: 24px;
+					text-align: center;
+					color: white;
+					
+					}
+					
+				.option:hover
+				{
+				
+				background-color: #FF955C;
+				color: black;
+				cursor: pointer;
+				
+				}
+				
+				.opt_1{
+				margin-top:0px; 
+				min-width:250px;
+				max-width:250px;
+				height: 77px;		
+				
+				}
+				
+				.wybor{
+				text-align:center;
+				
+				}
+				
+				.r0px{
+				border: none;
+				background-color:transparent;
+				max-height:0px;
+				max-width:0px;
+				margin-top: 0px;
+				margin-bottom: 0px;
+				
+				
+				}
+				
+				.txtopt{
+				border: none;
+				font-family: "Times New Roman";
+				}
+				
+					
+				.txtopt:hover{
+				background-color: #FF955C;
+				color: black;
+				cursor: pointer;
+							
+				}
+				
+				.form{
+					float:left; 
+					margin-top:0px; 
+					
+				
+				}
+				
+				.gaz_txt{
+				margin-top:0px; 
+				margin-left:auto; 
+				margin-right:auto; 
+				min-width: 700px; 
+				padding:5px;
+				font-size:35px;
+				letter-spacing: 3px;
+				
+				}
+				.gaz_txt:hover{
+				background-color: black;
+				color: white;
+				cursor: auto;				
+				}
+			
+				
+				
+				
+				#main{
+					margin-top: 10px;
+					margin-bottom: 10px;
+					margin-left: 10px;
+					float: left;
+					min-height: 500px;
+					min-width: 777px;
+				
+					padding: 5px;
+				}
+				
+				.dane{
+					float:left;
+					margin-left:30px;
+				}
+				
+				.drukuj{
+				margin-top:30px;
+				min-width: 570px; 
+				padding:10px;
+				min-height: 30px;
+				
+				}
+				
+				#doPoprawy{
+					text-align:center;
+				}
+
+				
+				.none_main {
+					background-color: #D9EDD5;
+				}
+				
+				.dottedline{
+					height: 7px;
+					padding: 2px;
+					margin-bottom: 5px;
+					border-bottom: 2px dotted #444444;
+				
+				
+				}
+				
+				.dottedline_up{
+					margin-bottom: 5px;
+					padding: 2px;
+					border-right: 3px dotted #444444;
+				}
+				
+				
+				#footer{
+					margin-top: 20px;
+					max-width: 1056px;
+					padding: 2px;
+					clear: both;
+					background-color: #072600;
+					color: white;
+					text-align: center;
+				}
+				
+				a:visited{
+				color: yellow;	
+				text-decoration: none;
+				
+				}
+				
+				a{
+				color: white;	
+				text-decoration: none;
+								
+				}
+				
+				.znajdz{
+				margin-left:auto; 
+				margin-right:auto;
+				text-align:center;
+				height:90px;
+				min-width:700px;
+				}
+				
+				.glowna{
+					margin-left: auto;
+					margin-right:auto;
+					margin-top: 20px;
+					margin-bottom:auto;
+					max-width: 715px;
+					min-height: 40px;
+					padding: 2px;
+					background-color: black;
+					
+					font-size: 30px;
+					text-align:center;
+					color: white;
+					
+					}
+					
+				.glowna:hover
+				{
+				
+				background-color: #FF955C;
+				color: black;
+				cursor: pointer;
+				
+				}
+				
+				
+				#formularz
+				{
+						padding: 5px;
+						margin-right: auto;
+						margin-left: auto;
+						text-align:center;
+						margin-top: 30px;
+				
+				
+					}
+							
+						
+				.dodruk{
+								color: white;
+								cursor: pointer;
+				}
+							
+				.tab{
+					min-height: 25px;
+					min-width: 700px;
+					margin-left:auto;
+					margin-right:auto;
+					background-color: #AAD490;
+					
+					border: 2px solid black;
+					text-align: center;
+					color: black;
+							
+				}
+				
+				
+				.aabb{
+				color: black;
+				cursor: pointer;
+				padding: 10px; 
+				text-align:center;
+				max-width: 750px;
+				
+				}
+				
+				.tab:hover
+				{
+				background-color: #000000;
+				color: white;
+				cursor: pointer;
+				}
+				
+				.t0{
+				/*background:#91C406;*/
+				/*background-color: #749E00;*/
+				background:#608217;
+				
+				}
+				.t0:hover{
+				background:#608217;
+				color: black;
+				cursor: auto;
+				}
+				
+				.mtab{
+				float:left;
+				max-width: 309px;
+				min-width: 309px;
+				border-right: 2px solid black;
+							
+				}
+				.mtab2{
+				float:left;
+				max-width: 40px;
+				min-width:40px;
+				border-right: 2px solid black;
+				}
+				
+				.mtab3{
+				float:left;
+				max-width: 40px;min-width:40px;				
+				}
+				
+				.noneNet{
+					display:none;
+				}
+				
+				
+				
+				.fl{
+				float:left;
+				}
+				
+				.endfloat{
+				clear:both;
+				}
+				
+				
+				.submit{
+				margin-left:250px;
+				}
+				
+				/* Zmienne tło*/
+				
+				/*NIEDZIELA - niebieskie tło*/
+				.bgcol_n{background-color: #4D97A1;}
+				.bgcol_n_options{background-color: #46BCCC;				}
+				.bgcol_n_main{background-color: #A3CACF}
+				
+				/*GOŚĆ NIEDZIELNY - fioletowe tło*/
+				.bgcol_gn{background-color: #676294;}
+				.bgcol_gn_options{background-color: #6847A1;}
+				.bgcol_gn_main{background-color: #8E88BD;}
+				
+				/*MAŁY GOŚĆ NIEDZIELNY - pomarańczowo-brązowe tło*/
+				.bgcol_mgn{background-color: #A86741;}
+				.bgcol_mgn_options{background-color: #A85322;}
+				.bgcol_mgn_main{background-color: #FAAE82;}
+				
+				/* panel_druczek  */
+				/*tabelki*/
+				
+				#resultt{
+				max-width:610px;
+				margin-left:auto;
+				margin-right:auto;
+				margin-top:20px;
+				
+				}
+				
+				.kol1{
+					padding-left: 20px;
+					min-width: 130px;
+					max-width: 130px;
+					max-hight: 60px;
+					min-hight: 60px;
+					border:2px black solid;
+					float:left;	
+					background-color: white;
+				}
+				.kol2{
+					padding-left:20px;
+					max-width: 400px;
+					min-width: 400px;
+					max-hight: 60px;
+					border:2px black solid;
+					float:left;			
+					background-color: white;
+				}
+				.kol3{clear:both;}
+				
+				/* Blad w wyszukiwaniu*/
+				
+				.error{
+				color: red;
+				text-align: center;
+				margin-left: auto;
+				margin-right: auto;
+				min-width: 700px;
+				font-weight: bold;
+				
+				
+				}
+				
+				#spis2{
+					margin-top:15px;
+				}
+				
+				.gazetyZW{
+				font-weight:bold;
+				/*text-align: left;*/
+				margin-left:0px;
+				min-width:280px;
+				margin-top:15px;
+				
+				}
+				
+				
+				
+				.naglowekZW{
+				font-size: 24px;
+				text-decoration: underline;
+				color:#043D2A;
+				font-weight:bold;
+				}
+				
+				.zawartoscZW{
+				
+				color:#065E41;
+				}
+				
+				.small{
+				max-width: 300px;
+				margin-top: 15px;
+				margin-left:100px;
+				}
+				
+				.smaller{
+				max-width: 300px;
+				margin-top: 15px;
+				margin-left:5px;
+				}
+				
+				.text15{
+				font-size:15px;
+				}
+				
+				.resize{
+				min-width:160px;
+				border-left: 1px solid black;
+				
+				}
+				
+				.wers{
+				
+				min-width:656px;
+				max-width:656px;
+				margin-left:0px;
+				margin-right:0px;
+				}
+				
+				.Fwers{
+				
+				min-width:656px;
+				max-width:656px;
+				margin-left:0px;
+				margin-right:0px;
+				background-color: #046949;
+				}
+				
+				.Fwers:hover{
+					background-color: #046949;
+					color: black;
+					cursor: auto;
+				}
+				
+				.right{
+				margin-left: 530px;
+				min-height: 20px;
+				max-width: 190px;
+				font-size: 15px;
+				}
+				
+				
